@@ -1,0 +1,10 @@
+flask
+flask-socketio
+eventlet
+flask-login
+flask-sqlalchemy
+oauthlib
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
